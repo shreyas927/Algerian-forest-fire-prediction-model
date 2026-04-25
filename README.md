@@ -154,7 +154,7 @@ Refer to `EDA_FE.ipynb` for:
 | **Scikit-learn** | Machine Learning |
 | **Pandas** | Data manipulation |
 | **NumPy** | Numerical computations |
-| **HTML/CSS** | Frontend UI |
+| **HTML** | Frontend UI |
 | **Pickle** | Model serialization |
 
 ---
@@ -196,27 +196,6 @@ The Ridge Regression model provides:
 
 ## 💡 Future Improvements
 
-- [ ] Add more ML algorithms (Random Forest, XGBoost, Neural Networks)
-- [ ] Implement cross-validation
-- [ ] Add real-time data integration
-- [ ] Deploy to cloud (AWS, Heroku, Google Cloud)
-- [ ] Create Docker container for easy deployment
-- [ ] Add CI/CD pipeline
-- [ ] Implement model monitoring and logging
+- [ ] Deploy to cloud (AWS)
 
----
-
-## 📧 Contact & Support
-
-For questions or issues, please create an issue on GitHub or contact the project maintainer.
-
----
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
----
-
-**Last Updated**: April 25, 2026  
 **Created by**: Shreyas
